@@ -1,7 +1,7 @@
 # Smart-Parking-System
 Python CLI based project on parking managemnet system.
 
- => RUN THE COMMAND c.execute("""CREATE TABLE parkings (Spot int ,
+* RUN THE COMMAND c.execute("""CREATE TABLE parkings (Spot int ,
                                      Vehicle text,
                                       Time int,
                                       Coupon int ) """)
