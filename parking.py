@@ -1,7 +1,7 @@
 import random
 import sqlite3
 import math
-import times
+import time
 
 conn = sqlite3.connect('parkings.db')
 c = conn.cursor()
